@@ -1,5 +1,10 @@
-# weather-app
+# Author
+![@jchurst](https://avatars0.githubusercontent.com/jchurst?&s=128)
 
-A Pen created at CodePen.io for Free Code Camp. You can find this one at http://codepen.io/jchurst/full/WxoVzr/.
+Created by JC Hurst
 
-FCC Project - Local Weather App
+[Github](https://github.com/jchurst) | [FreeCodeCamp](http://www.freecodecamp.com/jchurst) | [CodePen](http://codepen.io/jchurst/) | [LinkedIn](https://www.linkedin.com/in/jchurst) | [Website](http://hurstcreative.com/) | [E-Mail](mailto:jchurstmail@gmail.com)
+
+# FreeCodeCamp Front End Project - Local Weather App.
+
+A Pen created at CodePen.io for Free Code Camp: http://codepen.io/jchurst/full/WxoVzr/.
